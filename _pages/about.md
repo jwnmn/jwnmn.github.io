@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-# subtitle: Ph.D. Student in Computer Science. <a href='https://cs.uchicago.edu/'>University of Chicago</a>
+subtitle: Ph.D. Student in Computer Science. <a href='https://cs.uchicago.edu/'>University of Chicago</a>
 
 profile:
   align: left
