@@ -4,6 +4,54 @@
 
 @use "variables" as v;
 
+// Equal-contribution asterisk
+sup.equal-contrib {
+  cursor: default;
+}
+
+// Site title / name on the about page
+.post-title {
+  font-family: "Merriweather";
+  font-weight: 500;
+  font-size: 2rem;
+}
+
+.desc {
+  font-family: "Merriweather Sans", sans-serif;
+  font-weight: 300;
+  font-size: 0.9rem;
+}
+
+.sub-title {
+  font-family: "Merriweather";
+  font-weight: 400;
+  font-size: 1.2rem;
+  margin-top: 1.3rem;
+}
+
+body {
+  font-family: "Merriweather Sans", sans-serif;
+  font-weight: 300;
+  font-size: 0.8rem;
+}
+
+.equal-contrib-note {
+  font-size: 0.6rem;
+  color: var(--global-text-color-light);
+}
+
+// Match the news/announcements to the site body font + align with papers
+.news .news-date,
+.news .news-content {
+  font-family: "Merriweather Sans", sans-serif;
+  font-size: 0.8rem;
+  font-weight: 300;
+}
+
+.news .news-item {
+  margin-bottom: 0.5rem;
+}
+
 p,
 h1,
 h2,
@@ -108,6 +156,7 @@ blockquote {
     h4,
     h5,
     h6 {
+      font-family: "Merriweather Sans", sans-serif;
       color: var(--global-warning-block-title);
     }
   }
