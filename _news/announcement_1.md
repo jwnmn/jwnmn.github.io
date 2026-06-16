@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented at HRI 2026 Pioneers in Edinburgh, Scotland!
+Presented at HRI 2026 in Edinburgh, Scotland!
