@@ -9,8 +9,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "news-presented-at-hri-2026-pioneers-in-edinburgh-scotland",
-          title: 'Presented at HRI 2026 Pioneers in Edinburgh, Scotland!',
+  },{id: "news-presented-at-hri-2026-in-edinburgh-scotland",
+          title: 'Presented at HRI 2026 in Edinburgh, Scotland!',
           description: "",
           section: "News",},{
         id: 'social-email',
