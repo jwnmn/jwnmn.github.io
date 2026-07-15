@@ -12,6 +12,9 @@ ninja.data = [{
   },{id: "news-presented-at-hri-2026-in-edinburgh-scotland",
           title: 'Presented at HRI 2026 in Edinburgh, Scotland!',
           description: "",
+          section: "News",},{id: "news-accepted-to-ro-man-2026-lbr",
+          title: 'Accepted to RO-MAN 2026 LBR!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
